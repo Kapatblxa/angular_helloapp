@@ -7,3 +7,7 @@ for (i=0; i<arr.length; i++) {
 //for (i=0; i<arr2.length; i++) {
 //	console
 //}
+
+//git add
+//git commit
+//git push
